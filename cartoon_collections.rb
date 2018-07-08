@@ -22,3 +22,5 @@ def find_the_cheese(food_things)
   else
     return nil
   end
+food_things.include?("cheddar")
+    return "cheddar
